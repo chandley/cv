@@ -8,9 +8,9 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Hen Party App] | [Sudoku] | [Airport] |
+| [Students Stop Aidss] | [Sudoku] | [Battleships] |
 |:--------------- |:-------- |:--------- |
-| Rails MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+| MVP with Rails API server created in 10 days | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby battleships game with emphasis on clean TDD|
 
 
 Web development
@@ -46,7 +46,7 @@ I decided to do a 12 week intensive course at Makers Academy to learn how to app
   - Deployment to Heroku
 
 ### Makers Academy
-**Web Development Bootcamp: August&mdash;November 2013**
+**Web Development Bootcamp: October 2014&mdash;January 2015**
 
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
@@ -66,7 +66,7 @@ I helped found brainstrust as trustee and web designer and I continue to
 volunteer my time to support brain cancer patients and their carers.
 
 ### State Street 
-**Senior Fund Manager October 2002 to June 2014 **
+**Senior Fund Manager October 2002&mdash;June 2014 **
 
 - Directly responsible for managing $20bn of funds in index tracking strategies
 - Managed 4 team-members, assisted in management of team of 12
@@ -94,25 +94,19 @@ volunteer my time to support brain cancer patients and their carers.
 Interests
 ---------
 
-Code readability
+* Code readability
 
-Software craftmanship
+* Software craftmanship
 
-Usability
+* Data manipulation
 
-Typography
-
-Data driven design
-
-Lean startups
 
 
 Meet me
 -------
-I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
-
+I'm `chandley` on [Github]
 07881 957 811,
-[jamesjoshuahill@gmail.com]
+[chrisrhandley at gmail.com]
 
   [bookmark-manager]: https://github.com/chandley/bookmark-manager
 
