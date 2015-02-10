@@ -2,22 +2,66 @@ Chris Handley
 =========
 
 * I'm an experienced fund manager, interested in applying agile methods to finance.
-* I love automating repetetive tasks, and testing software to be sure that it works
-* Read my code on [GitHub].
+* I love automating repetetive tasks, and testing software to be sure that it works.
+* Read my code on [GitHub](http://github.com/chandley)
+
+### Makers Academy
+**Web Development Bootcamp: October 2014&mdash;January 2015**
+
+  - Highly selective 12 week full-time course
+  - Ruby, Javascript object oriented programming and software design
+  - Full stack web development
+  - Pair programming, Agile methodologies and teamwork
+  - Final project; Student Stop Aids
+
+Experience
+----------
+
+### State Street 
+**Senior Fund Manager October 2002&mdash;June 2014 **
+
+- Managed $20bn of funds with index tracking strategies. Analysed risk, implemmented trades, attributed performance.
+- Processed multiple data-feeds to manage index changes, corporate actions and voting.
+- Used database driven systems to monitor portfolio risk, model and implement trades across funds, and manage pipeline of work.
+- Lead fund manager for the launch of a range of European exchange traded funds. Developed systems and procedures for the rest of the team.
+- Improved communication and balanced workflow across team. Managed 4 team-members directly, deputy for team of 12.
+- Presented to clients, including systems demo.
+- Trained junior members of team, developing understanding with graded complexity of work.
+- Worked with developers to debug and add features to in-house systems
+- Implemented process improvements across the team, driving use of new software features.
+- Distributed grants to local charities, as member of foundation committee.
+
+### Henderson Investments
+**Fund Manager: July 2011&mdash;August 2012**
+
+- Managed active and passive funds
+- Wrote system in Access and Excel to manage portfios. Included trade implemntation across diverse funds, and performance attribution. Managed developer to rewrite it in SQL Server.
+
+### Barclays Bank
+**Management Trainee**
+- Credit analysis on small and medium sized companies
+
+### Trinity College, Cambridge
+- BA Hons Natural Sciences Tripos. Genetics, Physics, Mathematics, Geology, History of Science
+- Junior Scholar
+
+### Winchester College
+- 5 A levels (Maths, Further Maths, Physics, Chemistry and Economics)
+- Second Scholar
 
 Code examples
 -------------
 
-| [Students Stop Aids] | [Sudoku] | [Sockets Whiteboard |
+| [Students Stop Aids](https://github.com/chandley/stop-aids) | [Sudoku](https://github.com/chandley/Sudoku-Challenge) | [Sockets Whiteboard](https://github.com/chandley/sockets-whiteboard) |
 |:--------------- |:-------- |:--------- |
-| MVP with Rails API server created in 10 days | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Browser chatroom exercise with shared whiteboard|
+| MVP with Rails API server created in 10 days | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Javascript chatroom exercise with shared whiteboard|
 
 Web development
 ---------------
 
 * Finance involves a lot of repetetive tasks which are suitable for automation. 
 * I'm convinced that companies can get a competetive advantage by using TDD to build flexible and reliable software to meet evolving business needs.
-* I decided to do a 12 week intensive course at Makers Academy to learn how to apply these.
+* I decided to do a 12 week intensive course at Makers Academy to learn how to apply these
 
 ### Skills
 
@@ -42,64 +86,17 @@ Web development
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-### Makers Academy
-**Web Development Bootcamp: October 2014&mdash;January 2015**
-
-  - Highly selective 12 week full-time course
-  - Ruby, object oriented programming and software design
-  - Full stack web development
-  - Pair programming and teamwork
-  - Final project; Student Stop Aids
-
-.
-Experience
-----------
-
-### State Street 
-**Senior Fund Manager October 2002&mdash;June 2014 **
-
-- Directly responsible for managing $20bn of funds in index tracking strategies
-- Lead fund manager in the launch of a range of European exchange traded funds
-- Managed 4 team-members, assisted in management of team of 12
-- Presented to clients
-- Used database driven systems to monitor portfolio risk, model and implement trades across funds
-- Trained junior members of team 
-- Worked with developers to debug and add features to in-house systems
-
-### Henderson Investments
-**Fund Manager: July 2011&mdash;August 2012**
-
-- Managed active and passive funds
-- Wrote system in Access and Excel to manage portfios. Included trade implemntation across diverse funds, and performance attribution.
-
-
-### Barclays Bank
-**Management Trainee**
-- Credit analysis on small and medium sized companies
-
-### Trinity College, Cambridge
-- BA Hons Natural Sciences Tripos. Genetics, Physics, Mathematics, Geology, History of Science
-- Junior Scholar
-
-### Winchester College
-- 5 A levels (Maths, Further Maths, Physics, Chemistry and Economics)
-- Second Scholar
-
 Interests
 ---------
 
 * Code readability
-
 * Software craftmanship
-
 * Data manipulation
-
-
+* Breadmaking, ski mountaineering, cycling
 
 Meet me
 -------
-I'm `chandley` on [Github]
-07881 957 811,
+I'm `chandley` on [Github](http://github.com/chandley)
 [chrisrhandley at gmail.com]
 
   [bookmark-manager]: https://github.com/chandley/bookmark-manager
