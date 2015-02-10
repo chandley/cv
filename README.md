@@ -1,8 +1,8 @@
 Chris Handley 
 =========
 
-* I'm an experienced fund manager, interested in applying agile methods to finance.
-* I love automating repetetive tasks, and testing software to be sure that it works.
+* I'm an experienced fund manager, interested in applying agile methods to business.
+* I love automating repetitive tasks, and testing software to be sure that it works.
 * Read my code on [GitHub](http://github.com/chandley)
 
 ### Makers Academy
@@ -10,7 +10,7 @@ Chris Handley
 
   - Highly selective 12 week full-time course
   - Ruby, Javascript object oriented programming and software design
-  - Full stack web development
+  - Full stack web development. Sinatra, Rails and Node.js
   - Pair programming, Agile methodologies and teamwork
   - Final project; Student Stop Aids
 
@@ -20,15 +20,15 @@ Experience
 ### State Street 
 **Senior Fund Manager October 2002&mdash;June 2014**
 
-- Managed $20bn of funds with index tracking strategies. Analysed risk, implemmented trades, attributed performance.
+- Managed $20bn of funds with index tracking strategies. Analysed risk, implemented trades, attributed performance.
 - Processed multiple data-feeds to manage index changes, corporate actions and voting.
-- Used database driven systems to monitor portfolio risk, model and implement trades across funds, and manage pipeline of work.
-- Lead fund manager for the launch of a range of European exchange traded funds. Developed systems and procedures for the rest of the team.
-- Improved communication and balanced workflow across team. Managed 4 team-members directly, deputy for team of 12.
-- Presented to clients, including systems demo.
-- Trained junior members of team, developing understanding with graded complexity of work.
+- Used database driven systems to monitor risk, make trades, and manage pipeline of work.
 - Worked with developers to debug and add features to in-house systems
 - Implemented process improvements across the team, driving use of new software features.
+- Improved communication and balanced workflow across team. Managed 4 team-members directly, deputy for team of 12.
+- Trained junior members of team, developing understanding with graded complexity of work.
+- Lead fund manager for the launch of a range of European exchange traded funds. Developed systems and procedures for the rest of the team.
+- Presented to clients, including systems demo.
 - Distributed grants to local charities, as member of foundation committee.
 
 ### Henderson Investments
