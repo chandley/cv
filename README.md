@@ -18,7 +18,7 @@ Experience
 ----------
 
 ### State Street 
-**Senior Fund Manager October 2002&mdash;June 2014g:*
+**Senior Fund Manager October 2002&mdash;June 2014**
 
 - Managed $20bn of funds with index tracking strategies. Analysed risk, implemmented trades, attributed performance.
 - Processed multiple data-feeds to manage index changes, corporate actions and voting.
