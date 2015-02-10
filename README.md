@@ -18,7 +18,7 @@ Experience
 ----------
 
 ### State Street 
-**Senior Fund Manager October 2002&mdash;June 2014 **
+**Senior Fund Manager October 2002&mdash;June 2014g:*
 
 - Managed $20bn of funds with index tracking strategies. Analysed risk, implemmented trades, attributed performance.
 - Processed multiple data-feeds to manage index changes, corporate actions and voting.
@@ -32,7 +32,7 @@ Experience
 - Distributed grants to local charities, as member of foundation committee.
 
 ### Henderson Investments
-**Fund Manager: July 2011&mdash;August 2012**
+**Fund Manager: May 1997&mdash;October 2002**
 
 - Managed active and passive funds
 - Wrote system in Access and Excel to manage portfios. Included trade implemntation across diverse funds, and performance attribution. Managed developer to rewrite it in SQL Server.
