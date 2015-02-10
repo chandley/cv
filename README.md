@@ -35,7 +35,7 @@ Experience
 **Fund Manager: May 1997&mdash;October 2002**
 
 - Managed active and passive funds
-- Wrote system in Access and Excel to manage portfios. Included trade implemntation across diverse funds, and performance attribution. Managed developer to rewrite it in SQL Server.
+- Wrote system in Access and Excel to manage portfolios. Included trade implementation across diverse funds, and performance attribution. Managed developer to rewrite it in SQL Server.
 
 ### Barclays Bank
 **Management Trainee**
@@ -59,8 +59,8 @@ Code examples
 Web development
 ---------------
 
-* Finance involves a lot of repetetive tasks which are suitable for automation. 
-* I'm convinced that companies can get a competetive advantage by using TDD to build flexible and reliable software to meet evolving business needs.
+* Finance involves a lot of repetitive tasks which are suitable for automation. 
+* I'm convinced that companies can get a competitive advantage by using TDD to build flexible and reliable software to meet evolving business needs.
 * I decided to do a 12 week intensive course at Makers Academy to learn how to apply these
 
 ### Skills
@@ -90,9 +90,9 @@ Interests
 ---------
 
 * Code readability
-* Software craftmanship
+* Software craftsmanship
 * Data manipulation
-* Breadmaking, ski mountaineering, cycling
+* Bread making, ski mountaineering, cycling
 
 Meet me
 -------
