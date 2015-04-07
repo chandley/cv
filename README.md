@@ -5,6 +5,13 @@ Chris Handley
 * I love automating repetitive tasks, and testing software to be sure that it works.
 * Read my code on [GitHub](http://github.com/chandley)
 
+### Xenapto
+**Junior Developer March 2014&mdash;April 2015**
+
+  - Fixed bugs, added features and refactored Rails and Javascript code
+  - Worked with established codebase
+  - Developed javascript webclipper to bring in external content
+
 ### Makers Academy
 **Web Development Bootcamp: October 2014&mdash;January 2015**
 
