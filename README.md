@@ -6,6 +6,7 @@ Chris Handley
 * Read my code on [GitHub](http://github.com/chandley)
 
 ### Xenapto
+
 **Junior Developer March 2014&mdash;April 2015**
 
   - Fixed bugs, added features and refactored Rails and Javascript code
