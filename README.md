@@ -7,11 +7,11 @@ Chris Handley
 
 ### Xenapto
 
-**Junior Developer March 2014&mdash;April 2015**
+**Software Developer March 2014&mdash;April 2015**
 
-  - Fixed bugs, added features and refactored Rails and Javascript code
-  - Worked with established codebase
-  - Developed javascript webclipper to bring in external content
+  - Developed webclipper to import content from websites, using Javascript and Rails
+  - Added features, fixed bugs and refactored code
+  - Worked with established codebase, using Agile methodologies
 
 ### Makers Academy
 **Web Development Bootcamp: October 2014&mdash;January 2015**
